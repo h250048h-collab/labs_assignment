@@ -1,0 +1,10 @@
+*.class
+.idea/
+*.iml
+.vscode/
+out/
+# files created when programs run
+notes.txt
+learners.csv
+band-*.txt
+library-data/
